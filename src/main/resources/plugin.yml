@@ -1,0 +1,9 @@
+name: PlayerToolsPlugin
+version: '${project.version}'
+main: me.mrlukey676.playertoolsplugin.PlayerToolsPlugin
+api-version: 1.17
+authors: [ MrLukey676 ]
+commands:
+  lvl:
+    description: Shows your level in XP!
+    aliases: [level]
